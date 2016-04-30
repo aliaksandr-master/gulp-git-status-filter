@@ -1,5 +1,5 @@
 {
-  "name": "gulp-git-staus-filter",
+  "name": "gulp-git-status-filter",
   "version": "1.0.0",
   "main": "lib/index.js",
   "scripts": {
