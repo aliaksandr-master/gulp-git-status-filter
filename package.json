@@ -1,0 +1,25 @@
+{
+  "name": "gulp-git-staus-filter",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "author": "aliaksandr-pasynkau",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliaksandr-pasynkau/gulp-git-status-filter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aliaksandr-pasynkau/gulp-git-status-filter/issues"
+  },
+  "homepage": "https://github.com/aliaksandr-pasynkau/gulp-git-status-filter",
+  "devDependencies": {
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.9.0"
+  }
+}
