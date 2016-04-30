@@ -6,7 +6,16 @@
     "test": "grunt test"
   },
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "file",
+    "files",
+    "filter",
+    "git",
+    "gift",
+    "gulpplugin",
+    "ignore",
+    "match"
+  ],
   "license": "MIT",
   "author": "aliaksandr-pasynkau",
   "repository": {
