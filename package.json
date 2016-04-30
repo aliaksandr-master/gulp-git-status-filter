@@ -8,7 +8,6 @@
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "dependencies": {},
   "author": "aliaksandr-pasynkau",
   "repository": {
     "type": "git",
@@ -18,6 +17,12 @@
     "url": "https://github.com/aliaksandr-pasynkau/gulp-git-status-filter/issues"
   },
   "homepage": "https://github.com/aliaksandr-pasynkau/gulp-git-status-filter",
+  "dependencies": {
+    "gift": "^0.7.0",
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.11.1",
+    "streamfilter": "^1.0.5"
+  },
   "devDependencies": {
     "babel-eslint": "^6.0.4",
     "eslint": "^2.9.0"
