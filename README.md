@@ -8,6 +8,8 @@ Filter files by git status
 
 ## Getting started 
 
+ES2015, NODE 5+
+
 To install `gulp-git-status-filter` from npm, run:
 ```shell
 npm install gulp-git-status-filter --save
