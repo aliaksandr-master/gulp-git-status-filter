@@ -30,8 +30,7 @@
     "gift": "^0.7.0",
     "gulp-util": "^3.0.7",
     "lodash": "^4.11.1",
-    "streamfilter": "^1.0.5",
-    "vinyl-fs": "^2.4.3"
+    "streamfilter": "^1.0.5"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.4",
