@@ -1,6 +1,6 @@
 {
   "name": "gulp-git-status-filter",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "lib/index.js",
   "scripts": {
     "test": "grunt test"
